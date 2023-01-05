@@ -1,0 +1,10 @@
+@media (max-width: 375px){
+    .card{
+        margin: 0 10px;
+
+    }
+
+    .avatar ,.price,.time{
+        font-size: 15px;
+    }
+}
